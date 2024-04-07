@@ -509,42 +509,42 @@
     }
   }
 }
-.banner{
+.banner {
   width: 100%;
   height: 100vh;
   background-image: url(../img/banner2@2x.jpg);
   background-size: cover;
   position: relative;
   display: flex;
-    &::before{
+  &::before {
     width: 100%;
     height: 100vh;
-    content: '';
+    content: "";
     background-color: rgba(0, 0, 0, 0.555);
     position: absolute;
     /* top: 0;left: 0; */
   }
-  >div{
+  > div {
     width: 50%;
     height: 70%;
     margin: auto;
-    >*{
-            position: relative;
+    > * {
+      position: relative;
       z-index: 999;
     }
-    >h1{
+    > h1 {
       color: white;
       font-size: 45px;
       display: flex;
       justify-content: center;
       margin-top: 30px;
     }
-    >p{
+    > p {
       color: rgb(211, 208, 203);
       font-size: 20px;
       margin-top: 80px;
     }
-    >a{
+    > a {
       width: 200px;
       height: 50px;
       color: white;
@@ -555,58 +555,58 @@
       justify-content: center;
       border-radius: 50px;
       margin-top: 80px;
-      &:hover{
+      &:hover {
         background-color: rgb(243, 58, 58);
       }
     }
   }
 }
-.sport{
+.sport {
   width: 100%;
   height: 60vh;
   margin-top: 30px;
   display: flex;
   justify-content: space-around;
-  >div{
+  > div {
     width: 21%;
     height: 100%;
     padding-top: 50px;
-    >*{
+    > * {
       display: flex;
       justify-content: center;
       padding: 20px 10px;
     }
-    >a:nth-of-type(1){
-      >img{
+    > a:nth-of-type(1) {
+      > img {
         width: 100px;
         height: 100px;
       }
     }
-    >a:nth-of-type(2){
+    > a:nth-of-type(2) {
       color: rgb(114, 114, 113);
       font-size: 20px;
     }
-    >a:nth-of-type(3){
+    > a:nth-of-type(3) {
       color: black;
       font-size: 15px;
     }
   }
 }
-.banner3{
+.banner3 {
   width: 100%;
   height: 70vh;
   background-image: url(../img/banner14@2x.jpg);
   background-size: cover;
   margin-top: 20px;
   position: relative;
-  &::before{
-    content: '';
+  &::before {
+    content: "";
     width: 100%;
     height: 100%;
     background-color: rgba(199, 87, 165, 0.466);
     position: absolute;
   }
-  >*{
+  > * {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -614,21 +614,21 @@
     padding: 20px 0;
     z-index: 999;
   }
-  >h2{
+  > h2 {
     padding-top: 150px;
     font-size: 45px;
     color: white;
   }
-  >h3{
+  > h3 {
     font-size: 40px;
     color: yellow;
   }
-  >a{
+  > a {
     font-size: 25px;
     color: white;
   }
 }
-.foot{
+.foot {
   width: 100%;
   height: 80vh;
   background-color: black;
@@ -636,60 +636,60 @@
   justify-content: center;
   align-items: center;
   justify-content: space-around;
-  >div{
+  > div {
     width: 27%;
     height: 90%;
-    >*{
+    > * {
       display: flex;
       justify-content: center;
       align-items: center;
       margin-top: 50px;
     }
-    >img{
+    > img {
       width: 250px;
       height: 100px;
     }
-    >p{
+    > p {
       font-size: 20px;
       color: rgb(183, 184, 185);
     }
-    >div{
-      >a{
+    > div {
+      > a {
         color: rgb(172, 36, 36);
         margin: 10px;
       }
     }
   }
-  >div{
-  >h3{
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 90px;
-  }
-  >ul{
-    display: flex;
-    flex-flow: column;
-    >li{
-      padding: 15px 0;
-      >a{
-        font-size: 20px;
-        color: white;
-        &:hover{
-          color: blue;
+  > div {
+    > h3 {
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 90px;
+    }
+    > ul {
+      display: flex;
+      flex-flow: column;
+      > li {
+        padding: 15px 0;
+        > a {
+          font-size: 20px;
+          color: white;
+          &:hover {
+            color: blue;
+          }
         }
       }
     }
   }
-}
->div{
-  >span{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    font-size: 20px;
+  > div {
+    > span {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      font-size: 20px;
+    }
   }
-}
 }
