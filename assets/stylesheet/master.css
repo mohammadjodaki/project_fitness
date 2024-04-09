@@ -157,19 +157,22 @@
           }
         }
         &:first-of-type{
-          background-color: rgb(50, 50, 224);
+          transition: 0.5s;
+          background-color: blue;
           border-radius: 30px;
           &:hover{
             background-color: red;
           }
         }
         &:last-of-type{
+          color: white;
+          transition: 0.5s;
           background-color: black;
           border-radius: 30px;
           border: 2px solid rgb(138, 136, 136);
           &:hover {
-            background-color: rgb(255, 255, 255);
-            color: rgb(0, 0, 0);
+            background-color: white;
+            color: black;
           }
         }
       }
@@ -193,7 +196,7 @@
     position: relative;
     width: 30%;
     height: 400px;
-    &::after{
+    /* &::after{
       margin-top: -80px;
       border-radius: 7px;
       border-bottom-right-radius: 50px;
@@ -202,10 +205,10 @@
       width: 100%;
       height: 100%;
       background-color: rgba(0, 0, 0, 0.493);
-      /* position: relative;
+      position: relative;
       z-index: 999;
-      top: 0;left: 0; */
-    }
+      top: 0;left: 0;
+    } */
     > a {
       > img {
         margin-top: -80px;
@@ -219,10 +222,10 @@
         transition: 0.7s;
         position: absolute;
         &:hover {
-          width: 103%;
-          left: -1%;
-          height: 103%;
-          top: -1%;
+          width: 104%;
+          left: -2%;
+          height: 104%;
+          top: -2%;
         }
       }
     }
@@ -256,6 +259,7 @@
     font-size: 40px;
     color: white;
     padding: 50px 180px;
+    text-align: center;
   }
   > figure {
     display: flex;
@@ -520,10 +524,9 @@
         color: black;
       }
     }
-    >h5{
-      font-size: 15px;
+    >pre{
+      font-size: 14px;
       margin-top: 20px;
-      font-size: 12px;
       > a {
         color: rgb(10, 10, 10);
         &:hover{
@@ -556,6 +559,7 @@
     > * {
       position: relative;
       z-index: 999;
+      text-align: center;
     }
     > h1 {
       color: white;
@@ -566,7 +570,7 @@
     }
     > p {
       color: rgb(211, 208, 203);
-      font-size: 20px;
+      font-size: 18px;
       margin-top: 80px;
     }
     > a {
@@ -601,6 +605,7 @@
       display: flex;
       justify-content: center;
       padding: 20px 10px;
+      text-align: center;
     }
     > a:nth-of-type(1) {
       > img {
@@ -670,6 +675,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
+      text-align: center;
       margin-top: 50px;
     }
     > img {
