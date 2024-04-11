@@ -9,11 +9,9 @@
 
 - Created - 2023-11-26
 
-- Technologies Used - Html , css , js , React.js
+- Technologies Used - Html , css
 
-- Hooks Used : useState 
-
-- Role - Frontend
+-Frontend
 
 - How to reach me : with my [instagram](https://www.instagram.com/-) and [linkedin](https://www.linkedin.com/in/-)
 
