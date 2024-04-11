@@ -11,7 +11,7 @@
 
 - Technologies Used - Html , css
 
--Frontend
+- Frontend
 
 - How to reach me : with my [instagram](https://www.instagram.com/-) and [linkedin](https://www.linkedin.com/in/-)
 
