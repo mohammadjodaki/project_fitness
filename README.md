@@ -3,8 +3,6 @@
 
 ![viewfinal](https://s8.uupload.ir/files/screenshot_(76)_ybir.png)
 
-![view final](https://s8.uupload.ir/files/screenshot_(79)_koa3.png)
-
 - [Demo Project](https://mohammadjodaki.github.io/project_fitness/)
 
 - Developed by mohammad jodaki
