@@ -3,10 +3,6 @@
 
 ![viewfinal](https://s8.uupload.ir/files/screenshot_(76)_ybir.png)
 
-![view final](https://s8.uupload.ir/files/screenshot_(77)_65s9.png)
-
-![view final](https://s8.uupload.ir/files/screenshot_(78)_7yrx.png)
-
 ![view final](https://s8.uupload.ir/files/screenshot_(79)_koa3.png)
 
 
