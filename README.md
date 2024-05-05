@@ -13,5 +13,4 @@
 
 - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/-) and [linkedin](https://www.linkedin.com/in/-)
-
+- How to reach me : with my [instagram](https://www.instagram.com/mohammad_jodaki_web) and [linkedin](https://www.linkedin.com/in/mohammad-jodakian/)
